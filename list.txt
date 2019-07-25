@@ -1,11 +1,14 @@
 # apartmentlist
 
 Park and Market https://www.apartments.com/park-and-market-raleigh-nc/bs2hnqc/  919-636-5417
-Metropolitan https://www.apartments.com/metropolitan-apartments-llc-raleigh-nc/4mv1t5j/ 844-380-1438
+***Metropolitan https://www.apartments.com/metropolitan-apartments-llc-raleigh-nc/4mv1t5j/ 844-380-1438
 Edison Lofts https://www.apartments.com/the-edison-lofts-apartments-raleigh-nc/r3j7hr2/ 844-495-6112
 ***Tribute https://www.apartments.com/the-tribute-raleigh-nc/r1s3b90/  844-209-1305
 ***Avenues https://www.apartments.com/the-avenues-raleigh-nc/z389m8w/  844-268-0397
 ***Glenwood Place https://www.apartments.com/sojourn-glenwood-place-apartments-raleigh-nc/x1y1bvp/  251-405-3337
+West Morgan https://www.apartments.com/927-west-morgan-raleigh-nc/m7v53jk/ 919-827-0638
+Elan City Center https://www.apartments.com/elan-city-center-raleigh-nc/z2swkkz/ 844-453-5941
+St Marys https://www.apartments.com/st-marys-square-apartments-raleigh-nc/m98wkph/ 844-602-8897
 //end downtown
 
 Elevate https://www.apartments.com/elevate-brier-creek-raleigh-nc/4chhf8k/ 844-772-3472
@@ -22,5 +25,5 @@ Pointe https://www.apartments.com/pointe-at-crabtree-raleigh-nc/xdtv3xp/  844-72
 
 
 Marshall Park https://www.apartments.com/marshall-park-apartments-townhomes-raleigh-nc/1xp0zv7/ 844-695-4607
-***Parry Point https://www.apartments.com/perry-point-raleigh-nc/v5fe1qd/ 919-521-5120
+***Perry Point https://www.apartments.com/perry-point-raleigh-nc/v5fe1qd/ 919-521-5120
 //end middle of nowhere
